@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "410355883221",
+    "project_id": "ayan-healthcare",
+    "storage_bucket": "ayan-healthcare.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410355883221:android:a32782b604cd35e364965c",
+        "android_client_info": {
+          "package_name": "com.example.ayan_healthcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB2zTnD43u_OckYwtjIKLlFh6bT8cQXN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410355883221:android:83eaff8925dd349c64965c",
+        "android_client_info": {
+          "package_name": "com.instacare.ayan_healthcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB2zTnD43u_OckYwtjIKLlFh6bT8cQXN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

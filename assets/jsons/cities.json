@@ -1,0 +1,6506 @@
+[
+  {
+    "TotalDoctors": 5404,
+    "TotalMedicalCenters": 1606,
+    "Name": "Lahore",
+    "Popularity": "2",
+    "Latitude": "31.5457713949363",
+    "Longitude": "74.3413281440735"
+  },
+  {
+    "TotalDoctors": 3624,
+    "TotalMedicalCenters": 981,
+    "Name": "Karachi",
+    "Popularity": "2",
+    "Latitude": "24.862336",
+    "Longitude": "67.013893"
+  },
+  {
+    "TotalDoctors": 1186,
+    "TotalMedicalCenters": 329,
+    "Name": "Islamabad",
+    "Popularity": "2",
+    "Latitude": "33.7494641923258",
+    "Longitude": "73.0611419677734"
+  },
+  {
+    "TotalDoctors": 667,
+    "TotalMedicalCenters": 145,
+    "Name": "Rawalpindi",
+    "Popularity": "2",
+    "Latitude": "33.5883113449015",
+    "Longitude": "73.0353927612305"
+  },
+  {
+    "TotalDoctors": 73,
+    "TotalMedicalCenters": 23,
+    "Name": "Sialkot",
+    "Popularity": "0",
+    "Latitude": "32.4980352476276",
+    "Longitude": "74.5357990264893"
+  },
+  {
+    "TotalDoctors": 231,
+    "TotalMedicalCenters": 115,
+    "Name": "Multan",
+    "Popularity": "0",
+    "Latitude": "30.1906151528233",
+    "Longitude": "71.4580607414246"
+  },
+  {
+    "TotalDoctors": 612,
+    "TotalMedicalCenters": 44,
+    "Name": "Peshawar",
+    "Popularity": "0",
+    "Latitude": "34.00742",
+    "Longitude": "71.545172"
+  },
+  {
+    "TotalDoctors": 501,
+    "TotalMedicalCenters": 114,
+    "Name": "Faisalabad",
+    "Popularity": "0",
+    "Latitude": "31.4222179103003",
+    "Longitude": "73.0889511108398"
+  },
+  {
+    "TotalDoctors": 285,
+    "TotalMedicalCenters": 125,
+    "Name": "Bahawalpur",
+    "Popularity": "0",
+    "Latitude": "29.3953447391248",
+    "Longitude": "71.6835701465607"
+  },
+  {
+    "TotalDoctors": 84,
+    "TotalMedicalCenters": 58,
+    "Name": "Abbottabad",
+    "Popularity": "0",
+    "Latitude": "",
+    "Longitude": ""
+  },
+  {
+    "TotalDoctors": 29,
+    "TotalMedicalCenters": 6,
+    "Name": "Sahiwal",
+    "Popularity": "0",
+    "Latitude": "30.6579969125824",
+    "Longitude": "73.1076622009277"
+  },
+  {
+    "TotalDoctors": 2,
+    "TotalMedicalCenters": 0,
+    "Name": "Jauharabad",
+    "Popularity": "0",
+    "Latitude": "32.283142",
+    "Longitude": "72.285047"
+  },
+  {
+    "TotalDoctors": 208,
+    "TotalMedicalCenters": 58,
+    "Name": "Gujranwala",
+    "Popularity": "0",
+    "Latitude": "32.1509812046501",
+    "Longitude": "74.1824769973755"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Haroonabad",
+    "Popularity": "0",
+    "Latitude": "29.6118342804018",
+    "Longitude": "73.1371235847473"
+  },
+  {
+    "TotalDoctors": 7,
+    "TotalMedicalCenters": 2,
+    "Name": "Jhelum",
+    "Popularity": "0",
+    "Latitude": "32.9328035604163",
+    "Longitude": "73.7208151817322"
+  },
+  {
+    "TotalDoctors": 452,
+    "TotalMedicalCenters": 54,
+    "Name": "Quetta",
+    "Popularity": "0",
+    "Latitude": "29.9168522330702",
+    "Longitude": "67.027587890625"
+  },
+  {
+    "TotalDoctors": 156,
+    "TotalMedicalCenters": 32,
+    "Name": "Sargodha",
+    "Popularity": "0",
+    "Latitude": "32.0796655962205",
+    "Longitude": "72.6713418960571"
+  },
+  {
+    "TotalDoctors": 5,
+    "TotalMedicalCenters": 5,
+    "Name": "Sheikhupura",
+    "Popularity": "0",
+    "Latitude": "31.7141494098071",
+    "Longitude": "73.9844655990601"
+  },
+  {
+    "TotalDoctors": 25,
+    "TotalMedicalCenters": 2,
+    "Name": "Sukkur",
+    "Popularity": "0",
+    "Latitude": "",
+    "Longitude": ""
+  },
+  {
+    "TotalDoctors": 8,
+    "TotalMedicalCenters": 3,
+    "Name": "Chakwal",
+    "Popularity": "0",
+    "Latitude": "32.9234020434989",
+    "Longitude": "72.8757476806641"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chiniot",
+    "Popularity": "0",
+    "Latitude": "31.7201729155791",
+    "Longitude": "72.9888510704041"
+  },
+  {
+    "TotalDoctors": 4,
+    "TotalMedicalCenters": 1,
+    "Name": "Burewala",
+    "Popularity": "0",
+    "Latitude": "30.158189498908",
+    "Longitude": "72.6738739013672"
+  },
+  {
+    "TotalDoctors": 3,
+    "TotalMedicalCenters": 2,
+    "Name": "Daska",
+    "Popularity": "0",
+    "Latitude": "32.342841356393",
+    "Longitude": "74.3437957763672"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Hafizabad",
+    "Popularity": "0",
+    "Latitude": "32.0682506573704",
+    "Longitude": "73.6844122409821"
+  },
+  {
+    "TotalDoctors": 3,
+    "TotalMedicalCenters": 2,
+    "Name": "Mianwali",
+    "Popularity": "0",
+    "Latitude": "32.583596",
+    "Longitude": "71.549699"
+  },
+  {
+    "TotalDoctors": 24,
+    "TotalMedicalCenters": 0,
+    "Name": "Pakpattan",
+    "Popularity": "0",
+    "Latitude": "30.347183627899",
+    "Longitude": "73.387405872345"
+  },
+  {
+    "TotalDoctors": 18,
+    "TotalMedicalCenters": 1,
+    "Name": "Nawabshah",
+    "Popularity": "0",
+    "Latitude": "26.2362113626384",
+    "Longitude": "68.401050567627"
+  },
+  {
+    "TotalDoctors": 2,
+    "TotalMedicalCenters": 0,
+    "Name": "Bannu",
+    "Popularity": "0",
+    "Latitude": "32.9885797364485",
+    "Longitude": "70.6056547164917"
+  },
+  {
+    "TotalDoctors": 9,
+    "TotalMedicalCenters": 4,
+    "Name": "Okara",
+    "Popularity": "0",
+    "Latitude": "30.8020129763263",
+    "Longitude": "73.448646068573"
+  },
+  {
+    "TotalDoctors": 2,
+    "TotalMedicalCenters": 2,
+    "Name": "Haripur",
+    "Popularity": "0",
+    "Latitude": "",
+    "Longitude": ""
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 1,
+    "Name": "Kharian",
+    "Popularity": "0",
+    "Latitude": "32.8071154155523",
+    "Longitude": "73.8941073417664"
+  },
+  {
+    "TotalDoctors": 3,
+    "TotalMedicalCenters": 3,
+    "Name": "Vehari",
+    "Popularity": "0",
+    "Latitude": "30.0452472926541",
+    "Longitude": "72.3468160629272"
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 2,
+    "Name": "Attock",
+    "Popularity": "0",
+    "Latitude": "33.7646638146552",
+    "Longitude": "72.3662781715393"
+  },
+  {
+    "TotalDoctors": 22,
+    "TotalMedicalCenters": 2,
+    "Name": "Larkana",
+    "Popularity": "0",
+    "Latitude": "",
+    "Longitude": ""
+  },
+  {
+    "TotalDoctors": 2,
+    "TotalMedicalCenters": 1,
+    "Name": "Bahawalnagar",
+    "Popularity": "0",
+    "Latitude": "29.9992463791359",
+    "Longitude": "73.2515144348145"
+  },
+  {
+    "TotalDoctors": 20,
+    "TotalMedicalCenters": 5,
+    "Name": "Swat",
+    "Popularity": "0",
+    "Latitude": "",
+    "Longitude": ""
+  },
+  {
+    "TotalDoctors": 29,
+    "TotalMedicalCenters": 10,
+    "Name": "Gujrat",
+    "Popularity": "0",
+    "Latitude": "32.5740130891155",
+    "Longitude": "74.0788578987122"
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 2,
+    "Name": "Bhakkar",
+    "Popularity": "0",
+    "Latitude": "31.6222516167638",
+    "Longitude": "71.0655784606934"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Narowal",
+    "Popularity": "0",
+    "Latitude": "32.1089691688033",
+    "Longitude": "74.8685216903687"
+  },
+  {
+    "TotalDoctors": 4,
+    "TotalMedicalCenters": 1,
+    "Name": "Layyah",
+    "Popularity": "0",
+    "Latitude": "30.9728993112641",
+    "Longitude": "70.9366607666016"
+  },
+  {
+    "TotalDoctors": 5,
+    "TotalMedicalCenters": 6,
+    "Name": "Jhang",
+    "Popularity": "0",
+    "Latitude": "31.2636218380316",
+    "Longitude": "72.3432755470276"
+  },
+  {
+    "TotalDoctors": 2,
+    "TotalMedicalCenters": 1,
+    "Name": "Wazirabad",
+    "Popularity": "0",
+    "Latitude": "32.4450298334437",
+    "Longitude": "74.1081476211548"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Gwadar",
+    "Popularity": "0",
+    "Latitude": "25.1270244990586",
+    "Longitude": "62.3230791091919"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Ghotki",
+    "Popularity": "0",
+    "Latitude": "28.001107",
+    "Longitude": "69.318752"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bhimber",
+    "Popularity": "0",
+    "Latitude": "32.9738559425653",
+    "Longitude": "74.0621745586395"
+  },
+  {
+    "TotalDoctors": 6,
+    "TotalMedicalCenters": 0,
+    "Name": "Mirpur",
+    "Popularity": "0",
+    "Latitude": "33.1512775253755",
+    "Longitude": "73.7358999252319"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Thatta",
+    "Popularity": "0",
+    "Latitude": "24.7472989887783",
+    "Longitude": "67.9240894317627"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "FATA",
+    "Popularity": "0",
+    "Latitude": "33.2019241897789",
+    "Longitude": "70.3070068359375"
+  },
+  {
+    "TotalDoctors": 7,
+    "TotalMedicalCenters": 2,
+    "Name": "Kohat",
+    "Popularity": "0",
+    "Latitude": "",
+    "Longitude": ""
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Rawalakot",
+    "Popularity": "0",
+    "Latitude": "33.8590123518599",
+    "Longitude": "73.7354278564453"
+  },
+  {
+    "TotalDoctors": 10,
+    "TotalMedicalCenters": 6,
+    "Name": "Swabi",
+    "Popularity": "0",
+    "Latitude": "34.116779",
+    "Longitude": "72.467523"
+  },
+  {
+    "TotalDoctors": 3,
+    "TotalMedicalCenters": 1,
+    "Name": "Khanewal",
+    "Popularity": "0",
+    "Latitude": "30.3050805109762",
+    "Longitude": "71.9310092926025"
+  },
+  {
+    "TotalDoctors": 43,
+    "TotalMedicalCenters": 12,
+    "Name": "Hyderabad",
+    "Popularity": "0",
+    "Latitude": "25.3812227919002",
+    "Longitude": "68.3665573596954"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jacobabad",
+    "Popularity": "0",
+    "Latitude": "",
+    "Longitude": ""
+  },
+  {
+    "TotalDoctors": 9,
+    "TotalMedicalCenters": 1,
+    "Name": "Mardan",
+    "Popularity": "0",
+    "Latitude": "",
+    "Longitude": ""
+  },
+  {
+    "TotalDoctors": 5,
+    "TotalMedicalCenters": 1,
+    "Name": "Nowshera",
+    "Popularity": "0",
+    "Latitude": "34.0083019326444",
+    "Longitude": "72.0003604888916"
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Muzaffarabad",
+    "Popularity": "0",
+    "Latitude": "34.3603009316438",
+    "Longitude": "73.4708118438721"
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Khushab",
+    "Popularity": "0",
+    "Latitude": "32.294171",
+    "Longitude": "72.349678"
+  },
+  {
+    "TotalDoctors": 5,
+    "TotalMedicalCenters": 3,
+    "Name": "Taxila",
+    "Popularity": "0",
+    "Latitude": "33.748607795387",
+    "Longitude": "72.8102588653564"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sibi",
+    "Popularity": "0",
+    "Latitude": "29.5471772133158",
+    "Longitude": "67.8714323043823"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Naran",
+    "Popularity": "0",
+    "Latitude": "",
+    "Longitude": ""
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Galyat",
+    "Popularity": "0",
+    "Latitude": "34.0583482483652",
+    "Longitude": "73.4092712402344"
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 1,
+    "Name": "Loralai",
+    "Popularity": "0",
+    "Latitude": "30.3663585097209",
+    "Longitude": "68.5999631881714"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Astore",
+    "Popularity": "0",
+    "Latitude": "35.31820674025",
+    "Longitude": "74.8558187484741"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Zhob",
+    "Popularity": "0",
+    "Latitude": "31.3498620694997",
+    "Longitude": "69.4503092765808"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Gilgit",
+    "Popularity": "0",
+    "Latitude": "35.9181108124743",
+    "Longitude": "74.2911815643311"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Awaran",
+    "Popularity": "0",
+    "Latitude": "26.1677639979534",
+    "Longitude": "65.5046081542969"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chunian",
+    "Popularity": "0",
+    "Latitude": "30.9640678435205",
+    "Longitude": "73.9777278900146"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bagh",
+    "Popularity": "0",
+    "Latitude": "33.9721216134894",
+    "Longitude": "73.7909603118896"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Hunza",
+    "Popularity": "0",
+    "Latitude": "31.1704063",
+    "Longitude": "72.7097161"
+  },
+  {
+    "TotalDoctors": 42,
+    "TotalMedicalCenters": 2,
+    "Name": "Mansehra",
+    "Popularity": "0",
+    "Latitude": "",
+    "Longitude": ""
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Nasirabad",
+    "Popularity": "0",
+    "Latitude": "26.0666521385774",
+    "Longitude": "62.7144241333008"
+  },
+  {
+    "TotalDoctors": 9,
+    "TotalMedicalCenters": 26,
+    "Name": "Kasur",
+    "Popularity": "0",
+    "Latitude": "31.1192352716456",
+    "Longitude": "74.4499683380127"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Neelum",
+    "Popularity": "0",
+    "Latitude": "34.4256025192057",
+    "Longitude": "73.6896800994873"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chaghi",
+    "Popularity": "0",
+    "Latitude": "29.2968787937958",
+    "Longitude": "64.707670211792"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Lasbela",
+    "Popularity": "0",
+    "Latitude": "",
+    "Longitude": ""
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Makran",
+    "Popularity": "0",
+    "Latitude": "25.0391046974631",
+    "Longitude": "61.8096828460693"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Skardu",
+    "Popularity": "0",
+    "Latitude": "35.297229",
+    "Longitude": "75.626571"
+  },
+  {
+    "TotalDoctors": 11,
+    "TotalMedicalCenters": 4,
+    "Name": "Wah",
+    "Popularity": "0",
+    "Latitude": "33.7750807782736",
+    "Longitude": "72.7516794204712"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kalat",
+    "Popularity": "0",
+    "Latitude": "29.0254785299605",
+    "Longitude": "66.5904092788696"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Rohri",
+    "Popularity": "0",
+    "Latitude": "27.6797087450781",
+    "Longitude": "68.8993191719055"
+  },
+  {
+    "TotalDoctors": 4,
+    "TotalMedicalCenters": 0,
+    "Name": "Mingora",
+    "Popularity": "0",
+    "Latitude": "34.779055270851",
+    "Longitude": "72.3619222640991"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Ratwal",
+    "Popularity": "0",
+    "Latitude": "33.495378",
+    "Longitude": "72.718862"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Malakand",
+    "Popularity": "0",
+    "Latitude": "",
+    "Longitude": ""
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Murree",
+    "Popularity": "0",
+    "Latitude": "33.9174091538766",
+    "Longitude": "73.3997118473053"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chitral",
+    "Popularity": "0",
+    "Latitude": "35.8392466188267",
+    "Longitude": "71.7803549766541"
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Badin",
+    "Popularity": "0",
+    "Latitude": "24.658522",
+    "Longitude": "68.838058"
+  },
+  {
+    "TotalDoctors": 22,
+    "TotalMedicalCenters": 26,
+    "Name": "Muzaffargarh",
+    "Popularity": "0",
+    "Latitude": "30.0654541897466",
+    "Longitude": "71.1887454986572"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Others",
+    "Popularity": "0",
+    "Latitude": "",
+    "Longitude": ""
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sanghar",
+    "Popularity": "0",
+    "Latitude": "26.049707",
+    "Longitude": "68.946047"
+  },
+  {
+    "TotalDoctors": 2,
+    "TotalMedicalCenters": 0,
+    "Name": "Dadu",
+    "Popularity": "0",
+    "Latitude": "26.7238402789332",
+    "Longitude": "67.7696800231934"
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Khuzdar",
+    "Popularity": "0",
+    "Latitude": "27.7992988450297",
+    "Longitude": "66.6168880462646"
+  },
+  {
+    "TotalDoctors": 2,
+    "TotalMedicalCenters": 0,
+    "Name": "Kotli",
+    "Popularity": "0",
+    "Latitude": "33.8498886961013",
+    "Longitude": "73.4971618652344"
+  },
+  {
+    "TotalDoctors": 2,
+    "TotalMedicalCenters": 0,
+    "Name": "Khairpur",
+    "Popularity": "0",
+    "Latitude": "27.530619",
+    "Longitude": "68.758235"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Waziristan",
+    "Popularity": "0",
+    "Latitude": "32.6625003546784",
+    "Longitude": "69.8043823242188"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shahdadpur",
+    "Popularity": "0",
+    "Latitude": "25.923361",
+    "Longitude": "68.620818"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sehwan",
+    "Popularity": "0",
+    "Latitude": "26.419873",
+    "Longitude": "67.859092"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shikarpur",
+    "Popularity": "0",
+    "Latitude": "27.950585",
+    "Longitude": "68.647041"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sudhnoti",
+    "Popularity": "0",
+    "Latitude": "33.692923653746",
+    "Longitude": "73.6993789672852"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Matiari",
+    "Popularity": "0",
+    "Latitude": "25.600103",
+    "Longitude": "68.450097"
+  },
+  {
+    "TotalDoctors": 40,
+    "TotalMedicalCenters": 21,
+    "Name": "Rahim Yar Khan",
+    "Popularity": "0",
+    "Latitude": "28.4143520087222",
+    "Longitude": "70.3116416931152"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kala Shah Kaku",
+    "Popularity": "0",
+    "Latitude": "31.751087",
+    "Longitude": "74.2413"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Others Khyber Pakhtunkhwa",
+    "Popularity": "0",
+    "Latitude": "",
+    "Longitude": ""
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Hasan Abdal",
+    "Popularity": "0",
+    "Latitude": "33.8840973792749",
+    "Longitude": "72.3664283752441"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mandi Bahauddin",
+    "Popularity": "0",
+    "Latitude": "32.5876822726887",
+    "Longitude": "73.4889006614685"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Others Gilgit Baltistan",
+    "Popularity": "0",
+    "Latitude": "",
+    "Longitude": ""
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Others Punjab",
+    "Popularity": "0",
+    "Latitude": "",
+    "Longitude": ""
+  },
+  {
+    "TotalDoctors": 9,
+    "TotalMedicalCenters": 0,
+    "Name": "Dera Ghazi Khan",
+    "Popularity": "0",
+    "Latitude": "30.0405664305846",
+    "Longitude": "70.9332275390625"
+  },
+  {
+    "TotalDoctors": 4,
+    "TotalMedicalCenters": 1,
+    "Name": "Dera Ismail Khan",
+    "Popularity": "0",
+    "Latitude": "31.824482",
+    "Longitude": "70.908308"
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Gujar Khan",
+    "Popularity": "0",
+    "Latitude": "33.256938",
+    "Longitude": "73.304769"
+  },
+  {
+    "TotalDoctors": 2,
+    "TotalMedicalCenters": 0,
+    "Name": "Mirpur Khas",
+    "Popularity": "0",
+    "Latitude": "0",
+    "Longitude": "0"
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Nankana Sahib ",
+    "Popularity": "0",
+    "Latitude": "31.4511519540245",
+    "Longitude": "73.700076341629"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Others Azad Kashmir",
+    "Popularity": "0",
+    "Latitude": "",
+    "Longitude": ""
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Others Balochistan",
+    "Popularity": "0",
+    "Latitude": "",
+    "Longitude": ""
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Toba Tek Singh",
+    "Popularity": "0",
+    "Latitude": "0",
+    "Longitude": "0"
+  },
+  {
+    "TotalDoctors": 412,
+    "TotalMedicalCenters": 2,
+    "Name": "12 Meel",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 2,
+    "TotalMedicalCenters": 0,
+    "Name": "Abbas Pur (Ajk)",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Abdulhakim",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Adda 46",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Adda Jahan Khan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Adda Moongi Bangla",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Adhi Kot",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Adil Pur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Ahmedpur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Ahmedpur Sial",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Ahsan Pur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Akhetrabad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Akora Khatak",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Akrri",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Ali Nagar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Ali Pur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Ali Pur Chatta",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Alizai",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 2,
+    "TotalMedicalCenters": 0,
+    "Name": "Allahabad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Allai",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Alpori",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Amberi Kala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Amin Abad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Amin Pur Bangla",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Arifwala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Arja (Ajk)",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Athmaqam",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Ayun",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bacha Band",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Badah",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Badani",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Badomalhi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bagargi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Baghan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bagho Bahar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bahara Kahu",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bajor",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bakhshapur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bakshan Khan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Balakot",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Banda Daud Shah",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bandhi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bara",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bara Kahoo",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Barikot",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Baseer Pur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 1,
+    "Name": "Batgram",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bathoro",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Batkhela",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bela",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bhaag",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bhabra",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bhagtanwala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bhai Phero",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 1,
+    "Name": "Bhalwal",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bhan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bhawana",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bhera",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bhirya City",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bhirya Road",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bhitshah",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Billitang",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bisham",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bodal",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bonga Hayat",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Boni",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bozdar Wada",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Buffa",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Buleda",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 1,
+    "Name": "Buner",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Bunji",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Buxapur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chachro",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chak 22",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chak Jhamra",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chakdara",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chakesar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chakswari",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 1,
+    "Name": "Chaman",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chaman Kot",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chamber",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chamla",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chandko",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Changa Manga",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Charhoi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 1,
+    "Name": "Charsada",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chashma",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chattar Plain",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chawinda",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chelhar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chenab Nagar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 2,
+    "TotalMedicalCenters": 0,
+    "Name": "Chichawatni",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chilas",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chinari",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 3,
+    "TotalMedicalCenters": 0,
+    "Name": "Chistian",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Choa Saidan Shah",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chobara",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Choona Wala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chopar Hata",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chor Jamali",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chore",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chotti",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chotyari",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chowk Azam",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chowk Bahadur Pur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chowk Munda",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chowk Sarwar Shaheed",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chuk",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chunain",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chund Bharwana",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chung",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Chuprail",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dadyal",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Daggar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dairah Din Panah",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dajil",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dakhan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dakota",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dal Bandin",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dambalo",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Danda Shah Bilawal",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Danyore",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Daraban",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Daranwala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Darazinda",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dargai",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Daro",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Darra Adam Kheil",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Darsamand",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Darya Khan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Darya Khan Mari",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dassu",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dawakhari",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Degan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Deharki",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Depal Pur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Dera Allah Yar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dera Murad Jamali",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dhabijee",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dhadar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dhakki",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dhamthal",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dhir Kot",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dhori",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dhoronoro",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Digri",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dijkot",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dina",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dinga",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Diplo",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dir Lower",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dir Upper",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Doaba",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dokri",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dolat Pur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Domail",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Domeli",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Donga Bonga",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Doultala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dour",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Drosh",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dukki",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dulleywala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dumbalo",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Duniya Pur",
+    "Popularity": "0",
+    "Latitude": "29.804231",
+    "Longitude": "71.740108"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Dunyapur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Essa Khel",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 8,
+    "TotalMedicalCenters": 0,
+    "Name": "Faizabad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Faqeer Wali",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Farooq Abad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Farooqa",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Fateh Jang",
+    "Popularity": "0",
+    "Latitude": "33.568584",
+    "Longitude": "72.639068"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Fateh Jhang",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Fateh Pur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Fatehpur Kamal",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Fazil Pur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Feroz Watwa",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Feroza",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Fort Abbas",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Gaggo Mandi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Gahkooch",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Gambat",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Gamber",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Gambila",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Garah More",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Garh Maharaja",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Garhi Dupatta",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Gawadar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Ghakhar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Ghari Khairo",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Ghari Yaseen",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Gharo",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Gharri Habib Ullah",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Ghazi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Ghazi Abad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Ghulam Nabi Shah",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Ghulamullah",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Ghularchi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Gojar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 4,
+    "TotalMedicalCenters": 5,
+    "Name": "Gojra",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Golarchi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Gouspur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Grote",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Guddu",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Gujrat Qasba",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Gujri",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Gumbat",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Gupis",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Habib Abad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 8,
+    "TotalMedicalCenters": 0,
+    "Name": "Hafiz Abad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Hafizwala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Haidarabad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Hajeera",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Hajipur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Hala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Halani",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Hango",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Harappa",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Hari Chand",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Haroon Abad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Hasil Pur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Hatian Bala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Hatungo",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Haveli Lakha",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Havellian",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Hazari",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Hazro",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Head Jamrro",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Hingorja",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Hingorno",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Hub",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Hujra Shah Muqeem",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Iqbal Nagar (Punjab)",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Iqbalabad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Iskandrabad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Islam Kot",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Islamgarh",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jacob Abad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jahanian",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jajjah Abbasian",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jalal Abad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jalal Pur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jalalpur Jatahn",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jalalpur Pir Wala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jalapur Bhatian",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jamaldin Wali",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 2,
+    "TotalMedicalCenters": 0,
+    "Name": "Jampur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jamrud",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jamshoro",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jand",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jandanwala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 1,
+    "Name": "Jaranwala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jarwar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jati",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jatlan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jatoi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jehangera",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jetha Bhutta",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jewar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jhandawala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jhawarian",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jhole",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jhuddu",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jhumra",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Jiwani",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Johi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Juglot",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Juman Shah",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 2,
+    "TotalMedicalCenters": 0,
+    "Name": "Kabal",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Kabir Wala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kacha.Khu",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kadhan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kahota",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kakkar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kala Bagh",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kala City",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kalarsydain",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 2,
+    "TotalMedicalCenters": 0,
+    "Name": "Kalikay Sukheki Mandi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kallar Kahar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kalohi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 17,
+    "TotalMedicalCenters": 0,
+    "Name": "Kalu Khan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kalur Kot",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kamalia",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kamber Ali Khan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kameer",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kamoki",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kamra",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kandh Kot",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kandhra",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kandiaro",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kandyari",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kanganpur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kanjpur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kanjwani",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Karampur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kario Ghanwar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Karondi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Karor",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Karor Lalison",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Karor Paccah",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Karrak",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Karrora",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Kashmor",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kassowal",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kathor",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Katlung",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kech",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khadro",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khai Kher Shah",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khair Pur (Punjab)",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khairabad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khairpur Nathan Shah",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khairpur Sadat",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khairpur Tamay Wali",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khan Bella",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khan Pur Mahar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khandkot",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Khangarh",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khanozai",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khanpur (Kpk)",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Khanpur (Punjab)",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khanpur (Sindh)",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khanqa Dogra",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khanqa Sharif",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khaplu",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kharan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kharmang",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khawaja Goth",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khewra",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khichi Wala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khipro",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khoski",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khoza Khela",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khudian",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khuiratta",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khurianwala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khyber (Sindh)",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Khyber Agency",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Killa Saifullah",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kingra",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kloor Kot",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Komila",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kot Abdul Malik",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 7,
+    "TotalMedicalCenters": 2,
+    "Name": "Kot Addu",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kot Banglo",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kot Chuta",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kot G. Muhammad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kot Laloo",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kot Merus",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kot Mithan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kot Momin",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kot Nathan Shah",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kot Radha Kishan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kot Sabzal",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kot Samaba",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kot Shakir",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kot Sultan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kotjai",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 2,
+    "TotalMedicalCenters": 0,
+    "Name": "Kotla",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kotli Loharan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kotri",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kuchlak",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kumb",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kundia Ch",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kundian",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Kunjha",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Kunri",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Lachi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Lakhi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Lakki Marvat",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Lal Sohanra",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Lala Musa",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Lalian",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Lalyani",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Landi Kotal",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Latamber",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Latifabad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Lautko",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Liaquatpur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Lodhran",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Luk More",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Lund Khwar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mach",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Machi Wal",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Machka",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Madajia Dhakam",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Madeji",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Madiyan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mailsi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Makhdom Pur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Makhdum Rasheed",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Malakwal",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Malkahans",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mamo Kanjan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mana Ahmadani",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Manawala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mandi Ahmedabad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mandi Usmanwala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mandra",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Manga Mandi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mangla",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mangowall",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mankara",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Manthar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mari",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mastung",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Matli",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Matta",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mattni",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Matyari",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Meesan Mehar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Meetha Khel",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mehar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mehrab Pur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mianchannu",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Miani",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mianwali Qureshian",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mid Ranjha",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Minchan Abad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mir Ali",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mir Pur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Miran Shah",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Miro Khan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mirpur Bathoro",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mirpur Burero",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mirpur Mathelo",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mirpur Sakro",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 3,
+    "TotalMedicalCenters": 0,
+    "Name": "Mirpurkhas",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mirwah Gorchani",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mitha Tiwana",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mithi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mithyani",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mochi Wala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mohsin Wal",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mongi Bangla",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mor Khunda",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Moro",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Moro 1",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mubarikpur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Muhammad Pur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mulhal Mughlan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Munawala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Munda",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mureed Shakkh",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Muridke",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Muridwala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Musafir Khana",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Muslim Bagh",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Mustafabad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Muzaffar Abad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 2,
+    "TotalMedicalCenters": 0,
+    "Name": "Muzaffar Garh",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Nagar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Nagar Parkar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Nakial",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Narang Mandi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Naser Pur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Naukot",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Naushahro Feroze",
+    "Popularity": "0",
+    "Latitude": "26.849946",
+    "Longitude": "68.133496"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Nawabad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Nawakilay",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Nawan Kot",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Nia Lahore",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Nihang",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Nindo",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Nizarabad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Noor Shah",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Noorpur Thal",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Noshara Virkan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Noshero Feroz",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Noudero",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Noushki",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Odero Lal",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Oghi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Ormara",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Others Sindh",
+    "Popularity": "0",
+    "Latitude": "",
+    "Longitude": ""
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pabbi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pacca Chang",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Padidan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pagowal",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pahar Pur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Paharianwali",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pak Kamra",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 3,
+    "TotalMedicalCenters": 0,
+    "Name": "Pak Pattan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pakka Laran",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Palandri",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pangrio",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Panjgur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pano Aqil",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Para Chinar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pashin",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pasni",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pasroor",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 1,
+    "Name": "Pattoki",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pensera",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Peromal",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pezu Shabaz Khel",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Phalia",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Phool Nagar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Phularwan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Phulji",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Phullahdyoon",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pind Dadan Khan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pind Jo Goth",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pindi Bhatian",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pindi Gheb",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Piplan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pir Abdur Rehman",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pir Baba",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pir Jo Goth",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pir Mahal",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pir Wassan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Piryalo",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pishin",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pithoro",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Piyaro Goth",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Poran",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Pull 12 Meel",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Qabula",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Qadir Pur Rawan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Qalandarabad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Qamar Mashani",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Qazi Ahmed",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Qila Ahmedabad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Qila D Singh",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Quaidabad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Radhan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 1,
+    "Name": "Raiwind",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Raja Rasti",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Rajan Pur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Rajhana",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Rani Pur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Rato Dero",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Rawat",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Rawtiani",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Razmak",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Rehmani Nagar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Renala Khurd",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Risalpur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Rodosultan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Rohilan Wali",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Rojhan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Roundu",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Rukan Pur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Rustam",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sadda",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 4,
+    "TotalMedicalCenters": 1,
+    "Name": "Sadiq Abad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Saeed Abad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Safdar Abad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Safdarababd (Lhr)",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sahakot",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sahensa",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sahiwal (Sgd)",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Saidu Shareef",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sakhakot",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sakhi Sarwar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sakrand",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Samahini",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Saman Goth",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Samaro City",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sambhrial",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Samer Bagh",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Samma Satta",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Samundari",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sandhelianwali",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sangla Hill",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sanjarpur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sanjawi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sara-E-Alamgeer",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sarai Naurang",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sarhad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sathmil",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Satiana",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Satrah",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sehwan Sharif",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shab Qadar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shadan Lund",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shadi Pali",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shadilaaj",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shah Jamal",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shah Jeewana",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shah Mansoor",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shah Nikdar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shah Pur (Kpk)",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shah Sadardin",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shahbaz Khel",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shahdad Kot",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shahdad Pur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 1,
+    "Name": "Shahdara",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shahkot",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shahpur (Punjab)",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shahpur (Sindh)",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shaikh Wahan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Shakar Garh",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shakardara",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shakot",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 1,
+    "Name": "Shangla",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Sharaq Pur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shava Adda",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sher Sultan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shergarh",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shetharja",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shigar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shinkiari",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shohawa",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shor Kot",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shorbat City",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shraqpur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Shuja Abad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sial More",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sibbi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sikanderabad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Silanwali",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sinawan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sindhri",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Singul",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sinjhoro",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sitharja",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sohaga",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sohdra",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sowari",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sraey Sidhu",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Sujawal",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Syed Wala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Takht Bhai",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Takht Nusrati",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tala Ghang",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tale Wala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Talhar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Talwandi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tanda",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Tandlianwala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tando Adam",
+    "Popularity": "0",
+    "Latitude": "25.764907",
+    "Longitude": "68.663201"
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tando Akram",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tando Alah Yar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tando Bago",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tando Ghulam Ali",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tando Jam",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tando Jan Muhammad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tando Mitha Khan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tando Mohammad Khan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tangi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tangir",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tangwani",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Tank",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tarag",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Taranda Saway Khan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tarbella",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tatto Pani (Ak)",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Taunsa Sharif",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Teri",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Thall",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Thana",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Thana Bulla Khan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Thari Mir Wah",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tharu Shah",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Thehri",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Thie Shakam",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Thikrato",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Thing More",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Thull",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Thull Hamza",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tiba Sultan Pur",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tibbi Qaisrani",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 2,
+    "TotalMedicalCenters": 0,
+    "Name": "Timergara",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Toor Dher",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Topi",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Totakan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tranda Muhammad Panah",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tranda Sawaya Khan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tulamba",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Tump",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Turbat",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Ubauro",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Uch Sharif",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Ugoki",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Umer Kot",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Usman Shah",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Usta Muhammad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Uthal",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Vanikey Tarar",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Ver",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 7,
+    "TotalMedicalCenters": 4,
+    "Name": "Wah Cantt",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Wan Bashran",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Wana",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Warah",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Warbertan",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Wari",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Wasandy Wali",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Wazir Abad",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Wijhan Wala",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Winder",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Wohawa",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Work Shop (Sanghar)",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Yar Hussain",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Yaro Lund",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Yazman",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 0,
+    "TotalMedicalCenters": 0,
+    "Name": "Zafarwal",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "TotalDoctors": 1,
+    "TotalMedicalCenters": 0,
+    "Name": "Zahir Pir",
+    "Popularity": "0",
+    "Latitude": null,
+    "Longitude": null
+  }
+]

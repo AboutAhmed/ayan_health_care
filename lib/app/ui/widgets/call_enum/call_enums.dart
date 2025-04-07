@@ -1,0 +1,1 @@
+enum CallStatus { calling, ringing, connected, rejected, noAnswered, completed }
